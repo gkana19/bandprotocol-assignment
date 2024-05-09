@@ -1,6 +1,6 @@
 # Problem 3: Transaction Broadcasting and Monitoring Client
 
-The Transaction API with using **NodeJS** and **Express** in **typescript.** and creating api documentation with **Swagger** which you can found it after running the server by following [Quickstart](Quickstart) and goes to http://localhost:8000/api-docs. For more information please contact the developers.
+The Transaction API with using **NodeJS** and **Express** in **typescript.** and creating api documentation with **Swagger** which you can found it after running the server by following [Quickstart](https://github.com/gkana19/bandprotocol-assignment/tree/main/problem_3#quickstart) and goes to http://localhost:8000/api-docs. For more information please contact the developers.
 
 ## Quickstart
 
